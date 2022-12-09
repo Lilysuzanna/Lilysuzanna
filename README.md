@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lilysuzanna
+- 👋 Hi, I’m Anyadike Chisom Suzette
 - 👀 I’m interested in python programming.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on bigger projects and worthy tasks...
